@@ -1,0 +1,21 @@
+.cardContainer {
+  /* background-color: rgb(15, 13, 13); */
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.card {
+  margin-left: 12rem;
+  margin-bottom: 3rem;
+}
+
+img {
+  height: 70%;
+  width: 60%;
+}
+
+h5,
+p {
+  /* color: white; */
+  font-size: 1.5rem;
+}
